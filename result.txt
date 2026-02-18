@@ -1,0 +1,6 @@
+193.32.218.27:3000 open
+193.32.218.27:22 open
+193.32.218.27:8085 open
+[*] WebTitle http://193.32.218.27:3000 code:200 len:10360  title:Gitea: Git with a cup of tea
+[+] InfoScan http://193.32.218.27:3000 [Gitea简易Git服务] 
+[*] WebTitle http://193.32.218.27:8085 code:200 len:11605  title:PatCalc - Главная
